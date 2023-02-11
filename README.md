@@ -16,7 +16,7 @@ You can request a free check on our telegram using the hastag #check, we also pr
 
 Is Vital block NFT Audit free?
 
-We charge $200 ( Starting Price ) for Smart Contract & $300 (Starting Price ) for NFT Smart Contract Audit.
+We charge $500 ( Starting Price ) for Smart Contract & $600 (Starting Price ) for NFT Smart Contract Audit.
 
 How to prevent scam from fake github:
 
