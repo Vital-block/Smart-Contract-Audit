@@ -1,6 +1,6 @@
 Who is behind Vital Block Audit?
 
-We have a team of analysts specialized in blockchain technology & solidity programming, with wide experience on the ethereum, Solana, Polygon and binance smart chain network.
+We have a team of analysts specialized in blockchain technology & solidity programming, with wide experience on the Ethereum, Arbitrum, CORE, Aptos, Sui, Solana, Polygon and binance smart chain network.
 
 Is Vital-block Audit official partner of Several Lunchpads?
 
